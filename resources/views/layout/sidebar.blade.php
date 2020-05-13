@@ -25,9 +25,9 @@ Templates</a>
 Help</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link d-flex align-items-center" href="{{route('admin.dashboard')}}" target="_blank">
+                        <a class="nav-link d-flex align-items-center" href="{{route('admin.dashboard')}}">
                             
-__("Retour à l'espace admin")</a>
+{{__("Retour à l'espace admin")}}</a>
                     </li>
                 </ul>
             </div>
