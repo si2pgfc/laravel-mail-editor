@@ -24,5 +24,10 @@ Templates</a>
 </svg>
 Help</a>
                     </li>
+                    <li class="nav-item">
+                        <a class="nav-link d-flex align-items-center" href="{{route('admin.dashboard')}}" target="_blank">
+                            
+__("Retour à l'espace admin")</a>
+                    </li>
                 </ul>
             </div>
